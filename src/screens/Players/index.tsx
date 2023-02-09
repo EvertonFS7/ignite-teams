@@ -172,7 +172,7 @@ export function Players() {
             }
 
             <Button
-                title='Remover urma'
+                title='Remover turma'
                 type='SECONDARY'
                 onPress={handleGroupRemove}
             />
